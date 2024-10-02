@@ -1,0 +1,21 @@
+monolithic vs microservice
+monolithic - tightly coupled
+microservice - 
+flask is a library or a package 
+virtual environment 
+# python3 -m venv virtual
+# source virtual/bin/activate 
+# pip install flask
+#pip freeze >requirements.txt
+wsqi
+sqlite 
+postgresql,sqlite,mongoDB,MySL,NOsql
+its about routes and views
+Template engine known as jinja
+
+sqlite
+sqlite3 music.db
+CREATE TABLE music(id INTEGER PRIMARY KEY, title TEXT,artist TEXT, image_link TEXT);
+
+
+sqlalchemy 

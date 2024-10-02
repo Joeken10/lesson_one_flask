@@ -1,0 +1,13 @@
+.navbar-brand{
+  color: brown;
+}
+
+.music_list{
+  padding: 20px 20px;
+  display: flex;
+  gap: 15px;
+  overflow-x: auto; 
+  align-items: center;
+  justify-content: center;
+}
+
